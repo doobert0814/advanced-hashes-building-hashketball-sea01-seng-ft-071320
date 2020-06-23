@@ -25,3 +25,5 @@ def game_hash
     }
   }
 end
+
+def 
